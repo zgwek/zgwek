@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zgwek
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on beginner Java projects.
+- 👀 I’m interested in mobile app development.
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Java and Javascript projects,
 - 📫 How to reach me zgwekwerere@algomau.ca
 
 <!---
